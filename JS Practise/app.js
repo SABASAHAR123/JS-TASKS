@@ -203,28 +203,43 @@
 //  var final = pakistaniSquad.slice(2,13)
 //  console.log(final)
 // console.log(pakistaniSquad)
-
-
-
+ 
+// function sum(x,y) {var a=(x+y + "<br>")
+// return a;
+// }
+// var b = sum(10,200);
+// document.write(b)
   
+// *********** LEAP YEAR 1ST METHOD*********************
+// var a = prompt("Please input year")
+// if (a%4==0){document.write(a," Is a leap year ")}
+// else {document.write(a," Is not a leap year")
+// }
 
+// *********** LEAP YEAR 2ND METHOD *********************
+ 
+// function leapYear(year) {
+//   if (year%4==0 && year%100!=0){
+//   return true;}
 
-      
+// else if(year%400 ==0)
+//   {return true;}
+//   else {return false;}
+//   }
+// var year = prompt("Please input year");
+// if (leapYear(year) == true){document.write(year," is a Leap year")}
+// else {document.write(year," is not a Leap Year")}
 
-
-
-
-
-        
-     
-        
-      
-
-
-
-
-
-
+//************* SWITCH **************************
+//**************** WHILE LOOP ******************
+//**************/ DO WHILE LOOP ****************
+//*****************EVENTS *Click me* on heading* on mouse over*/leave/out*Bulb ON/Off image*/On key down & Down**********
+//***************** *FORM**/Input Type**/Text Area***********Added Events on 
+// DESIGN LOG IN FORM 
+// INPUT TYPE STORE IN ARRAY 
+// LEAP YEAR
+// CLICK ON Function BULB
+//CONTACT FORM
 
 
 
